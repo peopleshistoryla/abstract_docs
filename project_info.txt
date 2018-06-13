@@ -1,0 +1,40 @@
+The People's History of Los Angeles
+
+Project Abstract:
+This project seeks to illustrate, highlight, celebrate the stories and lived experiences of everyday
+people living in Los Angeles. The project will do this by letting people tell their own stories via video 
+of experiences that they have had in different parts of the city. These videos will be pinned to a physical
+location in the city and will allow users to play those videos when they are near that location. Since the
+stories can also be across time, in addition to across the city, the platform will have supplemental 
+information to let users know the context of how Los Angeles was during the time when this story is being
+told. 
+
+Project Details: 
+The first version of this platform will include 20 video stories of different people from across
+the city -- 5 from the westside of L.A. (Santa Monica, Culver City, Westwood, West Hollywood),
+5 from the northside of L.A. (Hollywood, Mid Wilshire area, Little Ethiopia), 5 from the southside of L.A. (
+Inglewood, Baldwin Hills, Crenshaw, Adams), 5 from the eastside of L.A. (Downtown, Koreatown, East L.A.,
+Echo Park). Each story will be geo-tagged and have an accompying video. 
+
+Technical Details:
+This will be a progressive web application, to save people from downloading yet another app. The browser 
+has APIs that allow you access the camera and geolocation data, which is the main APIs that this application
+will consume. We want the geolocation API so that we can pin stories to specific locations and the camera
+API is needed because we will want to place custom QR codes around the city near places where the stories
+take place. This will allow people to scan the QR code and jump right to the relevant video and supplemental
+info for the story. They will also be able to browse other stories across that platform. We will most likely
+have to take advantage of services that will allow streaming video.
+
+
+Timeline:
+The first version of the project is due by the end of November. 
+
+Possible Obstacles: 
+The main obstacles that this project will be centered around gathering interesting, varied stories of the
+people of L.A. I suspect that some people will be reclutant to share good stories without having a previous
+repore with the interviewer. Depending on the nature of the story, they may be reluctant to have their face
+on camera, which will make the need for creative editing and/or animators in getting the impact of the story across to the 
+viewer. The other obstacle will be in securing editors to work with video given to make a compelling piece.
+This piece may or may not prove to be difficult but I include it to be throughouh. 
+
+
