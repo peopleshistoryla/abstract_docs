@@ -1,10 +1,18 @@
 The People's History of Los Angeles
 
 Project Abstract:
-This project seeks to illustrate, highlight, celebrate the stories and lived experiences of everyday
-people living in Los Angeles. The project will do this by letting people tell their own stories via video 
-of experiences that they have had in different parts of the city. These videos will be pinned to a physical
-location in the city and will allow users to play those videos when they are near that location. Since the
+This project seeks to illustrate, highlight and celebrate the stories and experiences of everyday
+people living in Los Angeles. The project provides an oportunity for  people to tell their stories via video. 
+
+
+---- Shariq's words ------------
+Users will be able to go to different locations around Los Angeles where QR codes will be placed. Using the app,
+the user will be able to pull up different stories about the location, spanning several decades. They will also
+be able to read about the broader context of what was going on in Los Angeles at the time. 
+-----------------------------
+
+
+Those videos are then pinned to a physical location in the city and will allow users to play those videos when they are near that location. Since the
 stories can also be across time, in addition to across the city, the platform will have supplemental 
 information to let users know the context of how Los Angeles was during the time when this story is being
 told. 
