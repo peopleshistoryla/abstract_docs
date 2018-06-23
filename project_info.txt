@@ -1,36 +1,36 @@
-The People's History of Los Angeles
+The People's History of Los Angeles County
 
 Project Abstract:
 This project seeks to illustrate, highlight and celebrate the stories and experiences of everyday
-people living in Los Angeles. The project provides an oportunity for  people to tell their stories via video. 
+people living in Los Angeles County. The project provides an oportunity for  people to tell their stories via video. 
 
 
 ---- Shariq's words ------------
-Users will be able to go to different locations around Los Angeles where QR codes will be placed. Using the app,
-the user will be able to pull up different stories about the location, spanning several decades. They will also
-be able to read about the broader context of what was going on in Los Angeles at the time. 
+QR codes will be placed in various locations throughout Los Angeles County. 
+This web applicaion enables users to scan a QR code with their smart phones, 
+and access videos of individuals discussing the history of that particular location.  
+The history spans from the 1970's to 2010.  
+Users will also have the ability to read about the broader context of 
+what was occuring in that particular area of Los Angeles County, at any 
+chosen time between the 1970's and 2010. 
 -----------------------------
 
-
-Those videos are then pinned to a physical location in the city and will allow users to play those videos when they are near that location. Since the
-stories can also be across time, in addition to across the city, the platform will have supplemental 
-information to let users know the context of how Los Angeles was during the time when this story is being
-told. 
-
 Project Details: 
-The first version of this platform will include 20 video stories of different people from across
-the city -- 5 from the westside of L.A. (Santa Monica, Culver City, Westwood, West Hollywood),
-5 from the northside of L.A. (Hollywood, Mid Wilshire area, Little Ethiopia), 5 from the southside of L.A. (
-Inglewood, Baldwin Hills, Crenshaw, Adams), 5 from the eastside of L.A. (Downtown, Koreatown, East L.A.,
-Echo Park). Each story will be geo-tagged and have an accompying video. 
+The first phase of this platform will include 20 video stories of different people from across
+the city -- 5 from the west L.A. County i.e. Santa Monica, Culver City, West Hollywood;
+5 from north L.A. County i.e. Hollywood, Mid Wilshire, Little Ethiopia; 5 from south L.A. County i.e.Inglewood, Baldwin Hills, Crenshaw; 
+and 5 from east L.A. County i.e. Downtown L.A., Koreatown, Echo Park. 
+Each story will be geo-tagged and have an accompying video. 
+
+Phase 2 will focus on adding additional stories in areas that were not covered in phase one.
 
 Technical Details:
 This will be a progressive web application, to save people from downloading yet another app. The browser 
-has APIs that allow you access the camera and geolocation data, which is the main APIs that this application
+has Application Programming Interfaces (APIs) that allow you access to the camera and geolocation data, which are the main APIs this application
 will consume. We want the geolocation API so that we can pin stories to specific locations and the camera
-API is needed because we will want to place custom QR codes around the city near places where the stories
-take place. This will allow people to scan the QR code and jump right to the relevant video and supplemental
-info for the story. They will also be able to browse other stories across that platform. We will most likely
+API is needed because we'll want to place custom QR codes around the city near places where the stories
+take place. This will allow users to scan the QR code and jump right to the relevant video and supplemental
+info for the story. Users will also be able to browse other stories across that platform. We will most likely
 have to take advantage of services that will allow streaming video.
 
 
@@ -38,8 +38,8 @@ Timeline:
 The first version of the project is due by the end of November. 
 
 Possible Obstacles: 
-The main obstacles that this project will be centered around gathering interesting, varied stories of the
-people of L.A. I suspect that some people will be reclutant to share good stories without having a previous
+The main obstacle of this project will be centered around gathering interesting, varied stories of the
+people of L.A. It is suspected that some people will be reclutant to share good stories without having a previous
 repore with the interviewer. Depending on the nature of the story, they may be reluctant to have their face
 on camera, which will make the need for creative editing and/or animators in getting the impact of the story across to the 
 viewer. The other obstacle will be in securing editors to work with video given to make a compelling piece.
