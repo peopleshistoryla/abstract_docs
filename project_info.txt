@@ -2,7 +2,7 @@ The People's History of Los Angeles County
 
 Project Abstract:
 This project seeks to illustrate, highlight and celebrate the stories and experiences of everyday
-people living in Los Angeles County. The project provides an oportunity for  people to tell their stories via video. 
+people living in Los Angeles County. The project provides an opportunity for  people to tell their stories via video. 
 
 
 ---- Shariq's words ------------
@@ -20,7 +20,7 @@ The first phase of this platform will include 20 video stories of different peop
 the city -- 5 from the west L.A. County i.e. Santa Monica, Culver City, West Hollywood;
 5 from north L.A. County i.e. Hollywood, Mid Wilshire, Little Ethiopia; 5 from south L.A. County i.e.Inglewood, Baldwin Hills, Crenshaw; 
 and 5 from east L.A. County i.e. Downtown L.A., Koreatown, Echo Park. 
-Each story will be geo-tagged and have an accompying video. 
+Each story will be geo-tagged and have an accompanying video. 
 
 Phase 2 will focus on adding additional stories in areas that were not covered in phase one.
 
